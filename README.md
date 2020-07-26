@@ -1,5 +1,7 @@
 # demo
 
+https://kaychen1994.github.io/week6-team/dist/index.html#/
+
 ## Project setup
 ```
 npm install
